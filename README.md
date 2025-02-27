@@ -35,23 +35,23 @@ Identify and describe at least three key milestones in the evolution of software
 1. Mastering the Machine
 This initial phase was about understanding and optimizing the use of limited hardware resources. Early computing was constrained by the capabilities of the machines themselves. The emphasis was on writing code that could efficiently utilize processing power and memory.
 Characteristics:
-•	Early programming was often done in machine code or low-level languages.
-•	Hardware limitations heavily influenced software design.
-•	The development of early compilers and operating systems marked significant progress.
+1.	Early programming was often done in machine code or low-level languages.
+2.	Hardware limitations heavily influenced software design.
+3.	The development of early compilers and operating systems marked significant progress.
 
-2. Mastering the Process
+3. Mastering the Process
 As software projects grew larger and more complex, the "software crisis" emerged. This necessiatated the need for structured development methodologies. The focus shifted to creating processes that would ensure software quality, predictability, and maintainability.
 Characteristics:
-•	The introduction of software development methodologies, such as structured programming.
-•	Emphasis on requirements gathering, design, and testing.
-•	Efforts to improve project management and control.
+1.	The introduction of software development methodologies, such as structured programming.
+2.	Emphasis on requirements gathering, design, and testing.
+3.	Efforts to improve project management and control.
 
-3. Mastering Complexity
+4. Mastering Complexity
 With the rapid increase of personal computers and graphical user interfaces, software applications became increasingly complex. The challenge was to manage this complexity and create software that was both powerful and user-friendly. Object oriented programing became a corner stone in this era.
 Characteristics:
-•	The rise of object-oriented programming, which facilitated modularity and code reuse.
-•	The development of sophisticated software architectures.
-•	Increased emphasis on user interface design.
+1.	The rise of object-oriented programming, which facilitated modularity and code reuse.
+2.	The development of sophisticated software architectures.
+3.	Increased emphasis on user interface design.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -85,14 +85,14 @@ The Waterfall model has a longer development time since all planning and design 
 The Waterfall model has a risk of late discovery since testing is often done only after the development phase and issues or risks may not be discovered until late in the process whereas the Agile model has an early risk Identification since testing and feedback occur regularly throughout the development process, so risks can be identified and addressed earlier. This makes it easier to fix problems and make changes before they grow into larger issues.
 
 Waterfall is suitable for:
-•		Large, complex projects with fixed requirements: When requirements are well-defined and unlikely to change, such as in large government contracts or infrastructure projects.
-•		Regulated industries: In industries like healthcare, finance, or aerospace, where strict compliance and detailed documentation are required, Waterfall's focus on upfront planning and extensive documentation fits well.
-•		Projects with long timelines: If the project involves several years of development, such as large-scale enterprise software systems, Waterfall can help manage the initial phases without needing to constantly change course.
+1.	Large, complex projects with fixed requirements: When requirements are well-defined and unlikely to change, such as in large government contracts or infrastructure projects.
+2.	Regulated industries: In industries like healthcare, finance, or aerospace, where strict compliance and detailed documentation are required, Waterfall's focus on upfront planning and extensive documentation fits well.
+3.	Projects with long timelines: If the project involves several years of development, such as large-scale enterprise software systems, Waterfall can help manage the initial phases without needing to constantly change course.
 
 Agile is suitable for:
-•		Projects with evolving requirements: When user needs or business goals are likely to change throughout the project (e.g., startups, mobile apps, or tech products that need frequent updates).
-•		Shorter timeframes with frequent releases: In cases where a product needs to be launched quickly with iterative improvements, such as in software applications or SaaS products, Agile is ideal.
-•		Customer-Focused projects: When stakeholder feedback is crucial throughout the development cycle, such as in product design or customer-driven software development.
+1.	Projects with evolving requirements: When user needs or business goals are likely to change throughout the project (e.g., startups, mobile apps, or tech products that need frequent updates).
+2.	Shorter timeframes with frequent releases: In cases where a product needs to be launched quickly with iterative improvements, such as in software applications or SaaS products, Agile is ideal.
+3.	Customer-Focused projects: When stakeholder feedback is crucial throughout the development cycle, such as in product design or customer-driven software development.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -134,10 +134,10 @@ An IDE is a software application that provides comprehensive facilities to compu
 4.	Improved Collaboration - Some IDEs offer collaborative features, such as shared workspaces and real-time editing, facilitating teamwork.
     
 Examples
-•		Visual Studio (Microsoft): A powerful IDE for developing applications on Windows, macOS, and Linux, supporting a wide range of programming languages, including C#, C++, and Python.  
-•		IntelliJ IDEA (JetBrains): A popular IDE for Java development, known for its intelligent code completion and refactoring capabilities. It also supports other languages like Kotlin, Scala, and Python.     
-•		Xcode (Apple): The official IDE for developing applications for Apple platforms, including macOS, iOS, and watchOS, primarily used for Swift and Objective-C development.   
-•		Android Studio (Google): The official IDE for Android app development, based on IntelliJ IDEA. 
+1.	Visual Studio (Microsoft): A powerful IDE for developing applications on Windows, macOS, and Linux, supporting a wide range of programming languages, including C#, C++, and Python.  
+2.	IntelliJ IDEA (JetBrains): A popular IDE for Java development, known for its intelligent code completion and refactoring capabilities. It also supports other languages like Kotlin, Scala, and Python.     
+3.	Xcode (Apple): The official IDE for developing applications for Apple platforms, including macOS, iOS, and watchOS, primarily used for Swift and Objective-C development.   
+4.	Android Studio (Google): The official IDE for Android app development, based on IntelliJ IDEA. 
   
 Version Control Systems (VCS)
 A VCS is a system that records changes to a file or set of files over time so that you can recall specific versions later. Its importance includes:
@@ -148,11 +148,11 @@ A VCS is a system that records changes to a file or set of files over time so th
 5.	Code Review - Many VCS platforms have code review integrated, allowing for easier team collaboration, and better code quality.
    
 Examples
-•		Git: A distributed version control system that is widely used in software development. It is known for its flexibility, performance, and powerful branching and merging capabilities. 
-•		GitHub: A web-based platform that provides hosting for Git repositories, along with features such as issue tracking, pull requests, and code reviews.   
-•		GitLab: A web-based DevOps platform that provides Git repository management, CI/CD pipelines, and other development tools.   
-•		Bitbucket: A web-based version control repository hosting service owned by Atlassian, which primarily supports Git.   
-•		SVN (Apache Subversion): A centralized version control system that is still used in some organizations, although Git has become the dominant VCS.
+1.	Git: A distributed version control system that is widely used in software development. It is known for its flexibility, performance, and powerful branching and merging capabilities. 
+2.	GitHub: A web-based platform that provides hosting for Git repositories, along with features such as issue tracking, pull requests, and code reviews.   
+3.	GitLab: A web-based DevOps platform that provides Git repository management, CI/CD pipelines, and other development tools.   
+4.	Bitbucket: A web-based version control repository hosting service owned by Atlassian, which primarily supports Git.   
+5.	SVN (Apache Subversion): A centralized version control system that is still used in some organizations, although Git has become the dominant VCS.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
@@ -174,32 +174,32 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 1. Unit Testing
 Unit testing focuses on testing individual units or components of the software in isolation. A unit is the smallest testable part of an application, like a function or method.   
 Importance
-•	Early Defect Detection: Unit tests catch bugs early in the development cycle, when they are easier and cheaper to fix.   
-•	Code Quality: They help with writing modular, maintainable, and testable code.   
-•	Regression Prevention: Unit tests act as a safety net, ensuring that code changes don't introduce new bugs.
-•	Facilitates Refactoring: Gives confidence that refactoring code will not break functionality.
+1.	Early Defect Detection: Unit tests catch bugs early in the development cycle, when they are easier and cheaper to fix.   
+2.	Code Quality: They help with writing modular, maintainable, and testable code.   
+3.	Regression Prevention: Unit tests act as a safety net, ensuring that code changes don't introduce new bugs.
+4.	Facilitates Refactoring: Gives confidence that refactoring code will not break functionality.
 
 2. Integration Testing
 Integration testing verifies the interactions between different units or components of the software. It checks whether these components work together as expected.   
 Importance:
-•	Interface Verification: It ensures that the interfaces between components are working correctly.   
-•	Interaction Bugs: It detects bugs that arise from the interactions between different components.   
-•	System Behavior: It verifies that the system behaves as expected when different components are integrated.
+1.	Interface Verification: It ensures that the interfaces between components are working correctly.   
+2.	Interaction Bugs: It detects bugs that arise from the interactions between different components.   
+3.	System Behavior: It verifies that the system behaves as expected when different components are integrated.
 
 3. System Testing
 System testing evaluates the complete, integrated system against its specified requirements. It tests the system as a whole, including its functionality, performance, and security.   
 Importance:
-•	End-to-End Validation: It validates that the system meets all its functional and non-functional requirements.   
-•	Performance Evaluation: It assesses the system's performance under various loads and conditions.   
-•	Security Assessment: It identifies security vulnerabilities and ensures that the system is protected against threats.
+1.	End-to-End Validation: It validates that the system meets all its functional and non-functional requirements.   
+2.	Performance Evaluation: It assesses the system's performance under various loads and conditions.   
+3.	Security Assessment: It identifies security vulnerabilities and ensures that the system is protected against threats.
   
 4. Acceptance Testing
 Acceptance testing determines whether the system meets the customer's or end-user's requirements. It is typically performed by the customer or end-users.   
 Importance:
-•	Customer Satisfaction: It ensures that the system meets the customer's expectations and requirements.
-•	Final Validation: It provides the final validation before the system is released to production.   
-•	Business Requirements: It verifies that the system meets the business requirements and objectives.   
-•	User perspective: This test is performed from the user's perspective.  
+1.	Customer Satisfaction: It ensures that the system meets the customer's expectations and requirements.
+2.	Final Validation: It provides the final validation before the system is released to production.   
+3.	Business Requirements: It verifies that the system meets the business requirements and objectives.   
+4.	User perspective: This test is performed from the user's perspective.  
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -219,13 +219,13 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 Vague Prompt - "Write something about cats."
 Why it's vague:
-•	It's very ambiguous. What kind of "something"? A story? Facts? A poem?
-•	It lacks any specific direction or context.
-•	The AI has no idea what length, tone, or style is desired.
+1.	It's very ambiguous. What kind of "something"? A story? Facts? A poem?
+2.	It lacks any specific direction or context.
+3.	The AI has no idea what length, tone, or style is desired.
 
 Improved Prompt - "Write a short, humorous story (approximately 150 words) about a cat who tries to steal a slice of pizza from a sleeping person."
 Why the improved prompt is more effective:
-•	Focused Output: The AI now has a clear understanding of what's expected. It can generate a story that aligns with the specific requirements.
-•	Reduced Ambiguity: AI is less likely to produce irrelevant or unwanted content.
-•	Better Results: The resulting output will be much more likely to meet the user's expectations.
-•	Efficient Interaction: The user is more likely to get the desired output on the first try, reducing the need for revisions.
+1.	Focused Output: The AI now has a clear understanding of what's expected. It can generate a story that aligns with the specific requirements.
+2.	Reduced Ambiguity: AI is less likely to produce irrelevant or unwanted content.
+3.	Better Results: The resulting output will be much more likely to meet the user's expectations.
+4.	Efficient Interaction: The user is more likely to get the desired output on the first try, reducing the need for revisions.
